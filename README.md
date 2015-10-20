@@ -1,2 +1,5 @@
 # tvshowtime_alexa-skill
-An alexa skill as aws lambda function to connect to TVShowTime and enables you to ask for the next show you have to watch
+An alexa skill as an aws lambda function to connect to TVShowTime that enables you to 
+  - ask for the next show you have to watch
+  - mark shows as watched
+  - get a show suggestion
