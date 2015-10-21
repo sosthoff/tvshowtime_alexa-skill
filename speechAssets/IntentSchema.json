@@ -1,0 +1,30 @@
+{
+  "intents": [
+    {
+      "intent": "ShowIntent",
+      "slots": [
+		{
+          "name": "show",
+          "type": "LITERAL"
+        }
+	]
+    },
+    {
+      "intent": "MarkIntent",
+      "slots": [
+		{
+          "name": "show",
+          "type": "LITERAL"
+        }
+]
+    },
+    {
+      "intent": "SuggestionIntent",
+      "slots": []
+    },
+    {
+      "intent": "HelpIntent",
+      "slots": []
+    }
+  ]
+}

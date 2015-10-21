@@ -1,0 +1,16 @@
+ShowIntent where am I at {Game of Thrones|show}
+ShowIntent where am I with {The Walking Dead|show}
+ShowIntent what is my current episode of {Rick and Morty|show}
+
+MarkIntent mark show {Last Week Tonight|show} as watched
+MarkIntent mark show {Minority Report|show} as watched
+
+
+SuggestionIntent give me a suggestion
+SuggestionIntent suggest a show
+
+
+
+HelpIntent help
+HelpIntent give me help
+HelpIntent help me
